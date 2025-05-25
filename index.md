@@ -33,7 +33,9 @@ layout: default
 
 ## BSc Students
 
-## Ph.D. Committees
+## Ph.D. Defense Committees
+
+## Project Evaluation
 
 
 
