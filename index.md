@@ -2,7 +2,6 @@
 layout: default
 ---
 
-## Alessio Ferrari, Ph.D.
 - Lecturer at University College Dublin (UCD), Ireland
 - Senior Researcher at Consiglio Nazionale delle Ricerche (CNR), Italy (on leave)
 
