@@ -9,6 +9,9 @@ layout: default
 
 ## Publications
 
+- Mannari, C., Turchi, T., Frosali, C., Bacco, M., Ferrari, A., Conati, C., & Malizia, A. (2025). Assessing Computational Thinking Skills Through Artefacts: The Case of ModeLLer. In International Symposium on End User Development (pp. 312-321). Springer, Cham.
+- 
+
 ## Projects
 
 ## Awards
